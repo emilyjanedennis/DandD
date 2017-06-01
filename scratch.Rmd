@@ -1,0 +1,35 @@
+---
+title: "D&D"
+author: "Emily Jane Dennis"
+date: "5/31/2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
+## R Markdown
+
+The purpose of this project is to figure out how I want to do two things:
+1. generate a node-based structure for interpersonal interactions in fantasy context
+2. generate 5-tiered descriptions of individuals within these networks
+
+1. ideally, this would be used for:
+  a. largest: 1000-1500 people made up of subdistricts
+      subdistrict size would be
+  b. smallest: ~50 people (~10 families)
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
