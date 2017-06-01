@@ -15,21 +15,20 @@ The purpose of this project is to figure out how I want to do two things:
 1. generate a node-based structure for interpersonal interactions in fantasy context
 2. generate 5-tiered descriptions of individuals within these networks
 
-1. ideally, this would be used for:
-  a. largest: 1000-1500 people made up of subdistricts
-      subdistrict size would be
-  b. smallest: ~50 people (~10 families)
+1. node generation would include
+village:  50-300
+town:     1000-8000 (median 2500)
+city      8000-1200 (median 10000)
 
-```{r cars}
-summary(cars)
+to start, will play with villages
+
+
+```{r one}
+
 ```
 
-## Including Plots
+```{r two}
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
